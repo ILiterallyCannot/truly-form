@@ -1,0 +1,15 @@
+input {
+    width: 90%;
+    font-size: 2em;
+    padding: 5px;
+    border-radius: 5px;
+    border: 3px solid black;
+}
+.error {
+    color: red;
+    font-size: 2em;
+}
+#areaErrorBox, #cityErrorBox, #emailErrorBox {
+    padding: 10px;
+    min-height: 2.5em;
+}
